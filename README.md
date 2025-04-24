@@ -1,6 +1,6 @@
 # my-first-repo
 Primul meu repozitoriu GitHub pentru exersare.
-My First GitHub Project 
+#My First GitHub Project 
 
 Welcome to my GitHub project repository! 
 
